@@ -51,7 +51,6 @@ public class Program {
         
         System.out.println("Result: " + result);
         
-
         System.out.println("press enter to leave");
         String inputwait = sc.nextLine();
         sc.close();
